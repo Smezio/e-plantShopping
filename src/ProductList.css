@@ -185,8 +185,7 @@ body {
     border: 1px solid rgb(5, 4, 4);
     border-left: none;
     border-right: none;
-
-    
+    justify-content: center;
 }
 /* Add Media Query for responsiveness */
 @media (max-width: 768px) {
